@@ -39,7 +39,7 @@ enum planck_keycodes {
 };
 
 // Space bar hyper key
-#define SPACE HYPR(KC_SPC)
+#define SPACE HYPR_T(KC_SPC)
 
 // Left-hand home row mods - QWERTY
 #define HOME_A LSFT_T(KC_A)
